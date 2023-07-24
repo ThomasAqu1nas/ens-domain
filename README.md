@@ -15,5 +15,5 @@ npx hardhat run scripts/deploy.ts
 Test results:
 
 ```shell
-![Screenshot 2023-07-24 213934](https://github.com/ThomasAqu1nas/ens-domain/assets/103562622/b0d30508-0b25-4cf8-ad6b-6ae2f6c92d3c)
+![image](https://github.com/ThomasAqu1nas/ens-domain/assets/103562622/b0d30508-0b25-4cf8-ad6b-6ae2f6c92d3c)
 ```
